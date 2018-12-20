@@ -1,3 +1,6 @@
 [submodule "FinalProjectTest/subModuleTest/gitskills"]
 	path = FinalProjectTest/subModuleTest/gitskills
 	url = https://github.com/Tsunaou/gitskills
+[submodule "FinalProjectTest/子模块测试-01"]
+	path = FinalProjectTest/子模块测试-01
+	url = https://github.com/Tsunaou/gitskills
