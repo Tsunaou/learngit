@@ -1,0 +1,3 @@
+[submodule "FinalProjectTest/subModuleTest/gitskills"]
+	path = FinalProjectTest/subModuleTest/gitskills
+	url = https://github.com/Tsunaou/gitskills
